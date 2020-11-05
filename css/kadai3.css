@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+    color: darkblue;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h3{
+    color: purple;
+}
+
+p{
+    color: hotpink;
+}
+
+body{
+    background-image: url(../images/back2.jpg);
+}
