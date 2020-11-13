@@ -1,0 +1,27 @@
+h1{
+    color: honeydew;
+    text-align: center;
+    background-color: greenyellow;
+}
+
+h2{
+    color: paleturquoise;
+    text-align: center;
+    background-color: orchid;
+}
+
+table{
+    background-color: azure
+}
+
+p{
+    color: hotpink;
+}
+
+body{
+    background-image: url(../images/back3.jpg);
+}
+
+ol{
+    background-image: url(../images/back4.jpg);    
+}
