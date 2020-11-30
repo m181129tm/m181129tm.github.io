@@ -1,0 +1,27 @@
+body{
+    background-image: url(../images/back5.jpg);
+}
+
+h1#Title{
+    color: honeydew;
+    text-align: center;
+    background-color: greenyellow;
+}
+
+h2#eg{
+    color: paleturquoise;
+    text-align: center;
+    background-color: orchid;
+}
+
+h2#ji{
+    color: wheat;
+    text-align: center;
+    background-color: crimson;
+}
+
+h1#li{
+    color: lightgoldenrodyellow;
+    text-align: center;
+    background-color: turquoise;
+}
