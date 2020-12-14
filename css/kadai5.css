@@ -1,0 +1,63 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: lightslategray;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+div.menu{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 50px;
+}
+
+div.images{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0px;
+}
+
+div.menuitem1{
+    vertical-align: top;
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+div.menuitem2{
+    vertical-align: top;
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+}
+
+div.image1{
+    vertical-align: top;
+    width: 700px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+
+div.image2{
+    vertical-align: top;
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 10px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: burlywood;
+    font-size: 30px;
+    text-align: right;
+    margin-top: 20px;
+}
